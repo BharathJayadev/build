@@ -12,7 +12,7 @@ biggest()
     }
     else if (num2 > num1)
     {
-        printf("%d is Largest\n", num2);
+        printf("%d is largest\n", num2);
     }
     else
     {
